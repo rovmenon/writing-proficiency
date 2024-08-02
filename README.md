@@ -23,9 +23,6 @@
     * EFCAMDAT-Clip-6Class-Augment-Models.ipynb: Same as the 5-class version but focuses on six-class classification with clipping and augmentation.
     * onestopenglish-Models.ipynb: Develops and evaluates models for classifying the OneStopEnglish dataset.
 
-## Misc
-  - The Misc folder contains various Jupyter notebooks used as a sandbox for testing and refining our feature extraction and modeling processes. Feel free to disregard these files.
-
 
 
 
